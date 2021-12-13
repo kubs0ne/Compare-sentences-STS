@@ -1,0 +1,2 @@
+# Compare-sentences-STS
+This project focused on comparing sentences from STS-2012 dataset. We developed a system which extracts features such as lemmas or Part-Of-Speech tags from each sentence. Then the featurized sentences are compared with each other by different metrics such as jaccard distance. Final step is feeding the data to regression models to train a model for comparing similarity of sentences. The project is described in the Project.ipynb file.
